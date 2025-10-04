@@ -42,8 +42,8 @@ export const MeterDisplay = ({ fare, distance, isActive, status }: MeterDisplayP
       <div className="absolute inset-0 bg-gradient-glow opacity-30 pointer-events-none" />
       
       {/* Status Indicator */}
-      <div className="absolute top-4 right-4">
-        <div className={`px-4 py-2 rounded-lg bg-secondary border border-border ${statusConfig[status].color} font-bold text-sm tracking-wider`}>
+      <div className="absolute top-4 right-4 z-20">
+        <div className={`px-4 py-2 rounded-lg bg-secondary border border-border ${statusConfig[status].color} font-bold text-sm tracking-wider shadow-lg`}>
           {statusConfig[status].text}
         </div>
       </div>
