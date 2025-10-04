@@ -16,29 +16,16 @@ Traditional auto-rickshaw rides involve haggling and price uncertainty. This DAp
 - Blockchain: Ethereum Sepolia Testnet
 - Deployment: Vercel + Hardhat
 
-## Deployed Contract
-- Address: `0x...` (your address)
-- Network: Sepolia Testnet
-- [View on Etherscan](link)
 
 ## Sample Transactions
 - Ride Request: `0x...`
 - Payment Release: `0x...`
 
 ## Live Demo
-[https://your-app.vercel.app](URL)
+https://ricksha-pay-block-8txfbplhu-samarthscoe-gmailcoms-projects.vercel.app/
 
 ## Video Demo
-[YouTube/Loom Link](URL)
+https://youtu.be/dNon9J1okjI
 
-## Installation
-[Include setup instructions]
 
-## Usage
-[Include usage guide]
 
-## Smart Contract Functions
-[Document key functions]
-
-## License
-MIT
