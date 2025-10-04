@@ -1,73 +1,44 @@
-# Welcome to your Lovable project
+# Auto-Rickshaw Fare DApp
 
-## Project info
+## Problem Statement
+Traditional auto-rickshaw rides involve haggling and price uncertainty. This DApp provides transparent, blockchain-based fare calculation and payment.
 
-**URL**: https://lovable.dev/projects/4857472d-53db-4bcd-808a-dc8d0ed74d35
+## Features
+- Fixed fare calculation (base + per km)
+- Escrow payment system
+- Driver rating system
+- Ride history
+- Indian meter-style UI
 
-## How can I edit this code?
+## Tech Stack
+- Frontend: React + TypeScript + ethers.js
+- Smart Contract: Solidity 0.8.19
+- Blockchain: Ethereum Sepolia Testnet
+- Deployment: Vercel + Hardhat
 
-There are several ways of editing your application.
+## Deployed Contract
+- Address: `0x...` (your address)
+- Network: Sepolia Testnet
+- [View on Etherscan](link)
 
-**Use Lovable**
+## Sample Transactions
+- Ride Request: `0x...`
+- Payment Release: `0x...`
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4857472d-53db-4bcd-808a-dc8d0ed74d35) and start prompting.
+## Live Demo
+[https://your-app.vercel.app](URL)
 
-Changes made via Lovable will be committed automatically to this repo.
+## Video Demo
+[YouTube/Loom Link](URL)
 
-**Use your preferred IDE**
+## Installation
+[Include setup instructions]
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Usage
+[Include usage guide]
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Smart Contract Functions
+[Document key functions]
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/4857472d-53db-4bcd-808a-dc8d0ed74d35) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## License
+MIT

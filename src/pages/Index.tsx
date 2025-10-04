@@ -253,7 +253,7 @@ const Index = () => {
       <footer className="border-t-2 border-border bg-card mt-16">
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
-            <p>© 2024 AutoRide DApp. Built on Ethereum.</p>
+            <p>© 2025 AutoRide DApp. Built on Ethereum.</p>
             <div className="flex items-center gap-4">
               <span>Base Fare: ₹25</span>
               <span>•</span>
